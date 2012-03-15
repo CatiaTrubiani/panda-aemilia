@@ -10,7 +10,5 @@ This project aims at automating the detection of software performance antipatter
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The content of this project is here reported:
+  * The specification of a metamodel, based on the Performance Antipatterns Modeling Language (_PAML_), containing the architectural model elements of AEmilia: *PAML[AEmilia]*
