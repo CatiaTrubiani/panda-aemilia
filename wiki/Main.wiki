@@ -1,4 +1,4 @@
-#summary This page presents PANDA-AEmilia that is a software tool for Performance Antipatterns aNd feeDback on software Architectures (specified with the AEmilia Description Language).
+#summary This page presents *PANDA-AEmilia* that is a software tool for *P*erformance *A*ntipatterns a*N*d fee*D*back on software *A*rchitectures (specified with the *AEmilia* Description Language).
 
 = Introduction =
 
