@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary This page presents PANDA-AEmilia, i.e. a software tool for Performance Antipatterns aNd feeDback on software Architectures, in particular for the AEmilia Description Language.
 
 = Introduction =
 
