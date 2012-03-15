@@ -11,7 +11,7 @@ This project aims at automating the detection of software performance antipatter
 = Details =
 
 The content of this project is here reported:
-  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia: *PAML\[AEmilia\]*, please refer to the Dowloads.
+  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia: *PAML[AEmilia]*, please refer to the Dowloads.
 
 
 = References =
@@ -20,4 +20,3 @@ The content of this project is here reported:
 Trans. Softw. Eng. Methodol., vol. 11, no. 4, pp. 386–426, 2002.
 
 [PAML] C. Trubiani, "A Model-Based Framework for Software Performance Feedback", MoDELS Workshops, 2010.
-
