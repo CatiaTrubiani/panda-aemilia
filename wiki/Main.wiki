@@ -8,11 +8,12 @@ PANDA is a framework for addressing the results interpretation and the feedback 
 
 *_This project aims at enabling the usage of software performance antipatterns in the AEmilia Description Language._*
 
+
 = Details =
 
 The content of this project is here reported:
 
-  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia: PAML-AEmilia, please refer to the Dowloads/metamodel.zip.
+  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia, please refer to the Dowloads/metamodel.zip.
 
   * The specification of a Text-to-Model Transformation that allows the transformation of an AEmilia specification (file.aem) into an AEmilia model, please refer to the Dowloads/text2ModelTransf.zip.
 
