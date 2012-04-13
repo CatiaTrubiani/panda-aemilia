@@ -4,13 +4,13 @@
 
 The AEmilia metamodel (mmAEmilia.ecore) is composed by a set of meta classes and some external packages: 
 
-- DataType: it contains the data types (e.g. Integer, Real, Boolean, etc.) supported by the AEmilia ADL.
+- DataType - it contains the data types (e.g. Integer, Real, Boolean, etc.) supported by the AEmilia ADL.
 
-- Expressions: it contains the expressions (e.g. Arithmetical Expressions such as plus, minus, div, mult, etc. or Mathematical Expressions such as min, max, abs, mod, etc.) that can be specified in the AEmilia ADL.
+- Expressions - it contains the expressions (e.g. Arithmetical Expressions such as plus, minus, div, mult, etc. or Mathematical Expressions such as min, max, abs, mod, etc.) that can be specified in the AEmilia ADL.
 
-- Headers: it contains the headers for both the ArchiType (AT_Header) and the ElemType (ET_Header) as well as for behavioral equations supported by the AEmilia ADL.
+- Headers - it contains the headers for both the ArchiType (AT_Header) and the ElemType (ET_Header) as well as for behavioral equations supported by the AEmilia ADL.
 
-- Behavior: it contains a set of behavioral equations, their actions and the rates (exponential, immediate, passive) that can be specified in the AEmilia ADL.
+- Behavior - it contains a set of behavioral equations, their actions and the rates (exponential, immediate, passive) that can be specified in the AEmilia ADL.
 
 
 = Details =
