@@ -18,4 +18,13 @@ The AEmilia metamodel (mmAEmilia.ecore) is composed by a set of meta classes and
 The AEmilia metamodel: core elements and inner packages.
 
 
-http://code.google.com/images/code_sm.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmilia.png
+
+
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaHeaders.png
+
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaBehavior.png
+
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaExpressions.png
+
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaDataType.png
