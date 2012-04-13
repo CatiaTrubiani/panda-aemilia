@@ -1,4 +1,4 @@
-#summary This page presents "PANDA-AEmilia": Performance Antipatterns aNd feeDback on software Architectures, specified with the AEmilia Description Language.
+#summary This page presents "PANDA-AEmilia": Performance Antipatterns aNd feeDback on software Architectures, specified in the AEmilia Description Language.
 
 = Introduction =
 
