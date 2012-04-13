@@ -11,8 +11,16 @@ PANDA is a framework for addressing the results interpretation and the feedback 
 = Details =
 
 The content of this project is here reported:
-  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia: PAML-AEmilia, please refer to the Dowloads.
 
+  * The specification of a metamodel, based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia: PAML-AEmilia, please refer to the Dowloads/metamodel.zip.
+
+  * The specification of a Text-to-Model Transformation that allows the transformation of an AEmilia specification (file.aem) into an AEmilia model, please refer to the Dowloads/text2ModelTransf.zip.
+
+  * The detection tool that allows the detection of software performance antipatterns in the AEmilia model, please refer to the Dowloads/detectionTool.zip.
+
+  * The user guide that explains how-to-use metamodel, text2ModelTransf, and detectionTool sources, please refer to the Dowloads/panda-aemilia-userGuide.pdf.
+
+  * PANDA-AEmilia at work on a case study: Bus On Air, i.e. a system aimed at developing a set of services for public transportation targeting both the end-users (passengers) and the suppliers (transportation agencies), please refer to the Dowloads/BoA-caseStudy.zip.
 
 = References =
 
