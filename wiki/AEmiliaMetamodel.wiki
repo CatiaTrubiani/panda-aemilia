@@ -1,4 +1,4 @@
-#summary This page describes the AEmilia metamodel that captures all the model elements used in the specification of antipatterns.
+#summary This page describes the AEmilia metamodel that captures all the model elements used in the specification of performance antipatterns.
 
 = Introduction =
 
