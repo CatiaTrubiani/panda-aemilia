@@ -9,6 +9,7 @@ PANDA is a framework for addressing the results interpretation and the feedback 
 *_This project aims at enabling the usage of software performance antipatterns in the AEmilia Description Language._*
 
 
+
 = Details =
 
 The content of this project is here reported:
