@@ -16,3 +16,4 @@ The AEmilia metamodel (mmAEmilia.ecore) is composed by a set of meta classes and
 = Details =
 
 The AEmilia metamodel: core elements and inner packages.
+
