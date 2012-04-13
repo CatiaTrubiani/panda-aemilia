@@ -22,6 +22,8 @@ The content of this project is here reported:
 
   * PANDA-AEmilia at work on a case study: Bus On Air, i.e. a system aimed at developing a set of services for public transportation targeting both the end-users (passengers) and the suppliers (transportation agencies), please refer to the Dowloads/BoA-caseStudy.zip.
 
+
+
 = References =
 
 [AEmilia-ADL] M. Bernardo, P. Ciancarini, and L. Donatiello, “Architecting families of software systems with process algebras,” ACM
