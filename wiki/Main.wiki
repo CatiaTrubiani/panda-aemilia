@@ -8,7 +8,7 @@ The content of this project is here reported:
 
   * The specification of Text-to-Model Transformation Rules that allows the transformation of an AEmilia specification (file.aem) into an AEmilia model, please refer to [http://code.google.com/p/panda-aemilia/downloads/detail?name=text2ModelTransf.zip&can=2&q=#makechanges Downloads/text2ModelTransf.zip].
 
-  * The detection tool that allows the detection of software performance antipatterns in the AEmilia model by means of OCL rules, please refer to Downloads/detectionTool.zip.
+  * The detection tool that allows the detection of software performance antipatterns in the AEmilia model by means of OCL rules, please refer to [http://code.google.com/p/panda-aemilia/downloads/detail?name=detectionTool.zip&can=2&q=#makechanges Downloads/detectionTool.zip].
 
   * The user guide that explains how-to-use metamodel, text2ModelTransf, and detectionTool sources, please refer to Downloads/PANDA-AEmilia-userGuide.pdf.
 
