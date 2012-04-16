@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#summary This page discusses the usage of PANDA-AEmilia on a case study, i.e. the BoA (Bus on Air) system
 
 = Introduction =
 
-Add your content here.
+Bus on Air (BoA) is a system aimed at developing a set of services for public transportation targeting both the end-users (passengers) and the suppliers (transportation agencies). We concentrate our analysis on the receiveBestPath service, i.e. the potential passenger arrives at the bus stop and has access to information on the best path to reach a destination, such as lines that cover a path, how long to wait, etc.
 
 
 = Details =
