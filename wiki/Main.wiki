@@ -20,8 +20,10 @@ For further informations, please contact [http://www.di.univaq.it/catia.trubiani
 
 The project contributors are:
 
-* Vittorio Cortellessa: vittorio.cortellessa@univaq.it
-* Martina De Sanctis: martinadesanctis@yahoo.it
-* Antinisca Di Marco: antinisca.dimarco@univaq.it
-* Catia Trubiani: catia.trubiani@univaq.it
+* Vittorio Cortellessa: _vittorio.cortellessa@univaq.it_
 
+* Martina De Sanctis: _martinadesanctis@yahoo.it_
+
+* Antinisca Di Marco: _antinisca.dimarco@univaq.it_
+
+* Catia Trubiani: _catia.trubiani@univaq.it_
