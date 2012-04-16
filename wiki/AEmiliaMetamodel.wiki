@@ -21,13 +21,13 @@ To code the constraints imposed by the AEmilia ADL (e.g. each local interaction 
 The AEmilia metamodel: core elements and inner packages.
 
 
-http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmilia.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/mmAEmilia.png
 
 
-http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaHeaders.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/mmAEmiliaHeaders.png
 
-http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaBehavior.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/mmAEmiliaBehavior.png
 
-http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaExpressions.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/mmAEmiliaExpressions.png
 
-http://www.di.univaq.it/catia.trubiani/download/mmAEmilia-images/mmAEmiliaDataType.png
+http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/mmAEmiliaDataType.png
