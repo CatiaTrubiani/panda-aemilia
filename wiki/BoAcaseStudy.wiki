@@ -9,4 +9,4 @@ Bus on Air (BoA) is a system aimed at developing a set of services for public tr
 
 The complete AEmilia architectural specification of the BoA system
 (BoA.aem) along with its performance specification (BoA.rew) and the
-performance results (BoA.val) have been reported in Downloads/BoA-caseStudy.zip
+performance results (BoA.val) have been reported in Dowloads/BoA-caseStudy.zip.
