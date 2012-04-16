@@ -13,7 +13,7 @@ The AEmilia metamodel (mmAEmilia.ecore) is composed by a set of meta classes and
 - *Behavior*: it contains a set of behavioral equations, their actions and the rates (exponential, immediate, passive) that can be specified in the AEmilia ADL.
 
 
-To code the constraints imposed by the AEmilia ADL (e.g. each local interaction must be involved in at least one attachment), we implemented a set of OCL rules that allow us to validate the AEmilia specification and its corresponding model.
+To code the constraints imposed by the AEmilia ADL (e.g. each local interaction must be involved in at least one attachment), we implemented a set of [http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/AEmiliaMetamodelConstraints.ocl OCL rules] that allow us to validate the AEmilia specification and its corresponding model.
 
 
 = Details =
