@@ -12,7 +12,7 @@ The content of this project is here reported:
 
   * The user guide that explains how-to-use metamodel, text2ModelTransf, and detectionTool sources, please refer to Downloads/PANDA-AEmilia-userGuide.pdf.
 
-  * PANDA-AEmilia at work on a case study ([http://code.google.com/p/panda-aemilia/wiki/BoAcaseStudy see more details]): Bus On Air, i.e. a system aimed at developing a set of services for public transportation targeting both the end-users (passengers) and the suppliers (transportation agencies), please refer to Downloads/BoA-caseStudy.zip.
+  * PANDA-AEmilia at work on a case study ([http://code.google.com/p/panda-aemilia/wiki/BoAcaseStudy see more details]): Bus On Air, i.e. a system aimed at developing a set of services for public transportation, please refer to Downloads/BoA-caseStudy.zip.
 
 
 
