@@ -1,4 +1,4 @@
-#summary This page discusses the usage of PANDA-AEmilia on a case study, i.e. the BoA (Bus on Air) system
+#summary This page discusses the usage of PANDA-AEmilia on a case study, i.e. the BoA (Bus on Air) system.
 
 = Introduction =
 
@@ -7,7 +7,6 @@ Bus on Air (BoA) is a system aimed at developing a set of services for public tr
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+The complete AEmilia architectural specification of the BoA system
+(BoA.aem) along with its performance specification (BoA.rew) and the
+performance results (BoA.val) have been reported in Downloads/BoA-caseStudy.zip
