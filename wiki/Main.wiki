@@ -6,7 +6,7 @@ The content of this project is here reported:
 
   * The specification of a metamodel ([http://code.google.com/p/panda-aemilia/wiki/AEmiliaMetamodel see more details]), based on the _Performance Antipatterns Modeling Language (PAML)_, containing the architectural model elements of AEmilia, please refer to [http://code.google.com/p/panda-aemilia/downloads/detail?name=metamodel.zip&can=2&q=#makechanges Downloads/metamodel.zip].
 
-  * The specification of Text-to-Model Transformation Rules that allows the transformation of an AEmilia specification (file.aem) into an AEmilia model, please refer to Downloads/text2ModelTransf.zip.
+  * The specification of Text-to-Model Transformation Rules that allows the transformation of an AEmilia specification (file.aem) into an AEmilia model, please refer to [http://code.google.com/p/panda-aemilia/downloads/detail?name=text2ModelTransf.zip&can=2&q=#makechanges Downloads/text2ModelTransf.zip].
 
   * The detection tool that allows the detection of software performance antipatterns in the AEmilia model by means of OCL rules, please refer to Downloads/detectionTool.zip.
 
