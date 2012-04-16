@@ -11,14 +11,14 @@ The complete AEmilia architectural specification of the BoA system
 (BoA.aem) along with its performance specification (BoA.rew) and the
 performance results (BoA.val) have been reported in Dowloads/BoA-caseStudy.zip.
 
-BoA - detection of the Pipe and Filter Architectures antipattern.
+BoA - solution of the Pipe and Filter Architectures antipattern.
 
 http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/boa-pipeAndFilter.png
 
-BoA - detection of the Extensive Processing antipattern.
+BoA - solution of the Extensive Processing antipattern.
 
 http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/boa-extensiveProcessing.png
 
-BoA - detection of the Traffic Jam antipattern.
+BoA - solution of the Traffic Jam antipattern.
 
 http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/boa-trafficJam.png
