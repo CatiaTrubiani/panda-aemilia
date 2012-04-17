@@ -14,6 +14,8 @@ The content of this project is here reported:
 
   * PANDA-AEmilia at work on a case study ([http://code.google.com/p/panda-aemilia/wiki/BoAcaseStudy see more details]): Bus On Air, i.e. a system aimed at developing a set of services for public transportation, please refer to [http://code.google.com/p/panda-aemilia/downloads/detail?name=BoA-caseStudy.zip&can=2&q=#makechanges Downloads/BoA-caseStudy.zip].
 
+The tool is currently being developed by the Software Quality Group of the University of L'Aquila in Italy. For more details and questions please contact [http://www.di.univaq.it/catia.trubiani Catia Trubiani].
+
 = Contacts =
 
 The project contributors are:
