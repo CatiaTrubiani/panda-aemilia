@@ -1,8 +1,8 @@
-#summary This page describes the AEmilia metamodel that captures all the model elements used in the specification of software performance antipatterns.
+#summary This page describes the PAML[AEmilia] metamodel that collects all the model elements used for software performance antipatterns.
 
 = Introduction =
 
-The AEmilia metamodel (mmAEmilia.ecore) is composed by a set of meta classes and some external packages: 
+The metamodel (mmAEmilia.ecore) is composed by a set of meta classes and some external packages: 
 
 - *DataType*: it contains the data types (e.g. Integer, Real, Boolean, etc.) supported by the AEmilia ADL.
 
