@@ -11,6 +11,9 @@ The complete AEmilia architectural specification of the BoA system
 (BoA.aem) along with its performance specification (BoA.rew) and the
 performance results (BoA.val) have been reported in [http://code.google.com/p/panda-aemilia/downloads/detail?name=BoA-caseStudy.zip&can=2&q=#makechanges Downloads/BoA-caseStudy.zip].
 
+The detection tool gives as output the occurrence of three antipattern instances (i.e. Pipe and Filter Architectures, Extensive Processing, and Traffic Jam) that have been solved according to their solution specifications.
+The solution of antipatterns gives rise to new AEmilia architectural specifications of the BoA system (BoA-P&F.aem, BoA-EP.aem, BoA-TJ.aem) that have been reported in [http://code.google.com/p/panda-aemilia/downloads/detail?name=BoA-caseStudy.zip&can=2&q=#makechanges Downloads/BoA-caseStudy.zip]. In the following we provide a graphical hint of such refactorings.
+
 BoA - solution of the Pipe and Filter Architectures antipattern.
 
 http://www.di.univaq.it/catia.trubiani/download/mmAEmilia/boa-pipeAndFilter.png
